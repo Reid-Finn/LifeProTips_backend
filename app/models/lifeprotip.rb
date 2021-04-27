@@ -1,0 +1,2 @@
+class Lifeprotip < ApplicationRecord
+end
